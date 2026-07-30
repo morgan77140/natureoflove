@@ -1,0 +1,12 @@
+{
+  "name": "natureoflove",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nature of Love — blog comparatif sur les lubrifiants naturels et bio",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
